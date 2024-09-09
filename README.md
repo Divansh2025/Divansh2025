@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divansh2025&label=Profile%20views&color=0e75b6&style=flat" alt="divansh2025" /> </p>
 
-<p align="left"> <a href="https://twitter.com/https://x.com/divanshngalani" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/divanshngalani?logo=twitter&style=for-the-badge" alt="https://x.com/divanshngalani" /></a> </p>
-
 - 🔭 I’m currently working on [Password-Generator](https://github.com/Divansh2025/advanced-password-generator)
 
 - 🌱 I’m currently learning **ReactJS, Express , NodeJS**
