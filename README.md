@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm Divansh Galani<br>🚀 Aspiring Full-Stack Web Developer | Currently diving deep into MERN Stack<br>🌱 Eager to expand my horizons and learn DevOps to bridge the gap between development and operations.<br><br>💻 What I'm Working On:<br>Learning to Build responsive and dynamic web applications.<br>Learning the intricacies of MongoDB, Express, React, and Node.js.<br><br>🎯 Goals for 2025:<br>Master MERN Stack development.<br>Gain hands-on experience with DevOps tools like Docker, Kubernetes, and CI/CD pipelines.
+👋 Hi there! I'm Divansh Galani<br>🚀 Aspiring Full-Stack Web Developer | Currently diving deep into MERN Stack<br>🌱 Eager to expand my horizons and learn DevOps to bridge the gap between development and operations.<br><br>💻 What I'm Working On:<br>Learning to Build responsive and dynamic web applications.<br>Learning the intricacies of MongoDB, Express, React, and Node.js.<br><br>🎯 Goals for 2026:<br>Master Full Stack development.<br>Gain hands-on experience with DevOps tools like Docker, Kubernetes, and CI/CD pipelines.
 
 
 ## 🌐 Socials:
